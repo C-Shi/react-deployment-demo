@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Deployment Sample Updated</h1>
+        <h1>React Deployment Sample Auto Deployment</h1>
       </header>
     </div>
   );
